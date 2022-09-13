@@ -1,0 +1,53 @@
+baseURL: https://environmentalcomputing.net/
+languageCode: en-US
+defaultContentLanguage: en
+title: Contributing to iNaturalist as an identifier
+theme: hugo-theme-relearn
+metaDataFormat: yaml
+defaultContentLanguageInSubdir: yes
+googleAnalytics: UA-77528433-1
+params:
+  author:  Will Cornwell
+  customMermaidURL: NA
+  description: Contributing to iNaturalist as an identifier
+  disableBreadcrumb: no
+  disableLandingPageButton: yes
+  disableMermaid: no
+  disableNextPrev: no
+  editURL: https://github.com/nicercode/EnvironmentalComputing/edit/master/content/
+  showVisitedLinks: yes
+  titleSeparator: '::'
+  themeVariant: 'green'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Languages:
+  en:
+    title: iNaturalist as identifier
+    weight: 1
+    languageName: English
+    landingPageName: <i class='fas fa-home'></i> Home
+  pt:
+    title: iNaturalista como um identificador
+    weight: 1
+    languageName: Portuguese
+    landingPageName: <i class='fas fa-home'></i> Home
+
+
+
+
