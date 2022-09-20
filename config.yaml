@@ -1,11 +1,9 @@
-baseURL: https://environmentalcomputing.net/
 languageCode: en-US
 defaultContentLanguage: en
 title: Contributing to iNaturalist as an identifier
 theme: hugo-theme-relearn
 metaDataFormat: yaml
 defaultContentLanguageInSubdir: yes
-googleAnalytics: UA-77528433-1
 params:
   author:  Will Cornwell
   customMermaidURL: NA
@@ -14,7 +12,7 @@ params:
   disableLandingPageButton: yes
   disableMermaid: no
   disableNextPrev: no
-  editURL: https://github.com/nicercode/EnvironmentalComputing/edit/master/content/
+  editURL: https://github.com/coreytcallaghan/non-English-translations/tree/main/content
   showVisitedLinks: yes
   titleSeparator: '::'
   themeVariant: 'green'
