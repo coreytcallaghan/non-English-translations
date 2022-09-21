@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on iNaturalista como um identificador</title>
-    <link>/pt/categories/</link>
+    <link>https://coreytcallaghan.github.io/non-English-translations/pt/categories/</link>
     <description>Recent content in Categories on iNaturalista como um identificador</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://coreytcallaghan.github.io/non-English-translations/pt/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

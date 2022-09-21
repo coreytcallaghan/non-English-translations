@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zh-tw/categories/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/categories/"
+                href="https://coreytcallaghan.github.io/non-English-translations/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/categories/"
+                href="https://coreytcallaghan.github.io/non-English-translations/zh-tw/categories/"
                 />
   </url>
   <url>
-    <loc>/zh-tw/tags/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/"
+                href="https://coreytcallaghan.github.io/non-English-translations/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/tags/"
+                href="https://coreytcallaghan.github.io/non-English-translations/zh-tw/tags/"
                 />
   </url>
 </urlset>
