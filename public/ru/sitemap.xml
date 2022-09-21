@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/about-this-site/</loc>
-  </url>
-  <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/categories/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -14,11 +16,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://coreytcallaghan.github.io/non-English-translations/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://coreytcallaghan.github.io/non-English-translations/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,12 +29,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
+                hreflang="ru"
+                href="https://coreytcallaghan.github.io/non-English-translations/ru/categories/"
                 />
   </url>
   <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/tags/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -47,11 +49,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://coreytcallaghan.github.io/non-English-translations/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://coreytcallaghan.github.io/non-English-translations/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -65,8 +62,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
+                hreflang="ru"
+                href="https://coreytcallaghan.github.io/non-English-translations/ru/tags/"
                 />
   </url>
 </urlset>

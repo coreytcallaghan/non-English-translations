@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/about-this-site/</loc>
-  </url>
-  <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/categories/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/sw/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -22,22 +24,22 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sw"
-                href="https://coreytcallaghan.github.io/non-English-translations/sw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-tw"
                 href="https://coreytcallaghan.github.io/non-English-translations/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
+                hreflang="sw"
+                href="https://coreytcallaghan.github.io/non-English-translations/sw/categories/"
                 />
   </url>
   <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/tags/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/sw/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -55,18 +57,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="sw"
-                href="https://coreytcallaghan.github.io/non-English-translations/sw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-tw"
                 href="https://coreytcallaghan.github.io/non-English-translations/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
+                hreflang="sw"
+                href="https://coreytcallaghan.github.io/non-English-translations/sw/tags/"
                 />
   </url>
 </urlset>
