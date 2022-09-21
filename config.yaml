@@ -56,6 +56,11 @@ Languages:
     weight: 1
     languageName: Traditional Chinese (Taiwan)
     landingPageName: <i class='fas fa-home'></i> Home
+  sw:
+    title: iNaturalist kama kitambulisho
+    weight: 1
+    languageName: Swahili
+    landingPageName: <i class='fas fa-home'></i> Home
   ru:
     title: iNaturalist как идентификатор
     weight: 1
