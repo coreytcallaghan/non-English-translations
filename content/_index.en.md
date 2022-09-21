@@ -35,7 +35,7 @@ One of the most globally successful platforms is iNaturalist (www.inaturalist.or
 
 •	An important component of the iNaturalist infrastructure is the computer vision providing automated identification suggestions
 
-•	iNaturalist features a dedicated ‘Identify’ tool (www.inaturalist.org/observations/identify) that is streamlined for a rapid workflow to make, and review, identifications quickly.
+•	iNaturalist features a dedicated ‘Identify’ tool (www.inaturalist.org/observations/identify) that is streamlined for a rapid workflow to make, and review, identifications quickly
 
 **5. You can partake in dynamic, real-time interactions around the world**
 •	Engaging with iNaturalist prompts you to discuss and collaborate with all types of users in real time, with benefits for everyone involved
@@ -50,7 +50,8 @@ One of the most globally successful platforms is iNaturalist (www.inaturalist.or
 **7. You can enjoy yourself**
 •	Browsing photographs of even well-known species, and helping new naturalists to identify them, can be enjoyable and personally rewarding
 
-•	There is an official ‘iNat Observation of the Day’ project (see here) showcasing such observations
+•	There is an official ‘iNat Observation of the Day’ project (see [here](https://www.inaturalist.org/projects/inat-observation-of-the-day)) showcasing such observations
+
 </blockquote>
 
 ## How identifications can contribute to biodiversity research
