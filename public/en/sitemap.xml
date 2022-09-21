@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://coreytcallaghan.github.io/non-English-translations/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="https://coreytcallaghan.github.io/non-English-translations/pt/categories/"
                 />
@@ -42,6 +47,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://coreytcallaghan.github.io/non-English-translations/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://coreytcallaghan.github.io/non-English-translations/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
