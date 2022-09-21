@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/about-this-site/</loc>
-  </url>
-  <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/categories/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://coreytcallaghan.github.io/non-English-translations/es/categories/"
+                hreflang="en"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,16 +19,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://coreytcallaghan.github.io/non-English-translations/en/categories/"
+                hreflang="es"
+                href="https://coreytcallaghan.github.io/non-English-translations/es/categories/"
                 />
   </url>
   <url>
-    <loc>https://coreytcallaghan.github.io/non-English-translations/en/tags/</loc>
+    <loc>https://coreytcallaghan.github.io/non-English-translations/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://coreytcallaghan.github.io/non-English-translations/es/tags/"
+                hreflang="en"
+                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,8 +42,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://coreytcallaghan.github.io/non-English-translations/en/tags/"
+                hreflang="es"
+                href="https://coreytcallaghan.github.io/non-English-translations/es/tags/"
                 />
   </url>
 </urlset>

@@ -41,6 +41,11 @@ Languages:
     weight: 1
     languageName: English
     landingPageName: <i class='fas fa-home'></i> Home
+  es:
+    title: iNaturalist como identificador
+    weight: 1
+    languageName: Spanish
+    landingPageName: <i class='fas fa-home'></i> Home
   pt:
     title: iNaturalista como um identificador
     weight: 1
@@ -51,10 +56,3 @@ Languages:
     weight: 1
     languageName: Traditional Chinese (Taiwan)
     landingPageName: <i class='fas fa-home'></i> Home
-
-
-
-
-
-
-

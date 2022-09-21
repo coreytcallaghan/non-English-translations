@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-tw">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -8,8 +8,8 @@
     <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
     <meta name="description" content="Contributing to iNaturalist as an identifier">
     <meta name="author" content="Will Cornwell">
-    <title>成為《愛自然》的鑑定者</title>
-    <link href="/non-English-translations/zh-tw/index.json" rel="alternate" type="application/json" title="成為《愛自然》的鑑定者">
+    <title>iNaturalist como identificador</title>
+    <link href="/non-English-translations/es/index.json" rel="alternate" type="application/json" title="iNaturalist como identificador">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
     <link href="/non-English-translations/css/fontawesome-all.min.css?1663765385" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/non-English-translations/css/fontawesome-all.min.css?1663765385" rel="stylesheet"></noscript>
     <link href="/non-English-translations/css/featherlight.min.css?1663765385" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/non-English-translations/css/featherlight.min.css?1663765385" rel="stylesheet"></noscript>
@@ -26,21 +26,21 @@
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
-      var index_url="/non-English-translations/zh-tw/index.json";
+      var index_url="/non-English-translations/es/index.json";
       var root_url="/";
       var baseUri=root_url.replace(/\/$/, '');
       // translations
-      window.T_Copy_to_clipboard = '複製到剪貼板';
-      window.T_Copied_to_clipboard = '複製到剪貼簿！';
-      window.T_Copy_link_to_clipboard = '將連結複製到剪貼簿';
-      window.T_Link_copied_to_clipboard = '連結複製到剪貼簿！';
+      window.T_Copy_to_clipboard = 'Copiar en el portapapeles';
+      window.T_Copied_to_clipboard = '¡Copiado al portapapeles!';
+      window.T_Copy_link_to_clipboard = 'Copiar enlace al portapapeles';
+      window.T_Link_copied_to_clipboard = '¡Enlace copiado al portapapeles!';
       // some further base stuff
       var baseUriFull='https:\/\/coreytcallaghan.github.io\/non-English-translations/';
       window.variants && variants.init( [ 'green' ] );
     </script>
     <script src="/non-English-translations/js/jquery.min.js?1663765385" defer></script>
   </head>
-  <body class="mobile-support html" data-url="/non-English-translations/zh-tw/">
+  <body class="mobile-support html" data-url="/non-English-translations/es/">
     <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
       <div id="toc-overlay"></div>
@@ -53,30 +53,30 @@
              <span class="nav nav-prev"><i class="fa fa-chevron-left fa-fw"></i></span>
           </div>
           <div id="top-github-link">
-            <a class="github-link" title='編輯網頁 (CTRL+ALT+e)' href="https://github.com/coreytcallaghan/non-English-translations/tree/main/content/_index.zh-tw.md" target="blank">
+            <a class="github-link" title='Editar (CTRL+ALT+e)' href="https://github.com/coreytcallaghan/non-English-translations/tree/main/content/_index.es.md" target="blank">
               <i class="fas fa-pen fa-fw"></i>
             </a>
           </div>
           <div id="breadcrumbs">
             <span id="sidebar-toggle-span">
-              <a href="#" id="sidebar-toggle" title='導航 (CTRL+ALT+m)'><i class="fas fa-bars fa-fw"></i></a>
+              <a href="#" id="sidebar-toggle" title='Menú (CTRL+ALT+m)'><i class="fas fa-bars fa-fw"></i></a>
             </span>
-            <span id="toc-menu" title='目錄 (CTRL+ALT+t)'><i class="fas fa-list-alt fa-fw"></i></span>
+            <span id="toc-menu" title='Tabla de contenido (CTRL+ALT+t)'><i class="fas fa-list-alt fa-fw"></i></span>
             <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
               <meta itemprop="itemListOrder" content="Descending" />
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/non-English-translations/zh-tw/" aria-disabled="true"><span itemprop="name">成為《愛自然》的鑑定者</span></a></li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/non-English-translations/es/" aria-disabled="true"><span itemprop="name">iNaturalist como identificador</span></a></li>
             </ol>
           </div>
           <div class="default-animation progress">
             <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#導言">導言</a></li>
-    <li><a href="#概述">概述</a></li>
-    <li><a href="#資訊欄1擔任愛自然鑑定者的七個理由">資訊欄1：擔任《愛自然》鑑定者的七個理由</a></li>
-    <li><a href="#鑑定如何為生物多樣性研究加分">鑑定如何為生物多樣性研究加分？</a></li>
-    <li><a href="#結論">結論</a></li>
-    <li><a href="#參考文獻">參考文獻</a></li>
+    <li><a href="#epígrafe">Epígrafe</a></li>
+    <li><a href="#introducción">Introducción</a></li>
+    <li><a href="#recuadro-1--siete-razones-para-contribuir-a-inaturalist-como-identificadores">Recuadro 1 : Siete razones para contribuir a iNaturalist como identificadores.</a></li>
+    <li><a href="#cómo-pueden-contribuir-las-identificaciones-a-la-investigación-de-la-biodiversidad">Cómo pueden contribuir las identificaciones a la investigación de la biodiversidad</a></li>
+    <li><a href="#conclusiones">Conclusiones</a></li>
+    <li><a href="#references">References</a></li>
   </ul>
 </nav>
             </div>
@@ -89,133 +89,59 @@
           </div>
           <article class="home deprecated">
 
-<h1 id="成為公民科學愛自然鑑定者的七個理由">成為公民科學《愛自然》鑑定者的七個理由</h1>
-<p>This is a Traditional Chinese (Taiwan) translation of the community pages 
-manuscript published in PLOS Biology, available here: XXXXXXXXXXX.</p>
-<p>Translation done by Da-Li Lin (林大利) &amp; Cheng-Tao Lin (林政道)</p>
-<h2 id="導言">導言</h2>
-<p>隨著提交至公民科學《愛自然(iNaturalist)》的觀察紀錄不斷增加，
-盡可能將觀察紀錄鑑定至最細的分類階層，同時將研究價值升至最高，
-顯得更加重要。為此，本文探討更多人成為《愛自然》
-鑑定者，所能帶來的各種惠益。</p>
-<p><strong>關鍵字</strong>：《愛自然(iNaturalist)》，全球生物多樣性機構(GBIF)，
-生物多樣性資料，資料覆蓋度，生物文化，群眾科學，分類學</p>
-<h2 id="概述">概述</h2>
-<p>在人類日益改變的世界中，生物多樣性資料是偵測及瞭解地方至全球生物多樣性變化趨勢的必要資訊
-<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>。生物多樣性監測是《生物多樣性公約》之《2020年後全球生物多樣性綱要草案(the draft
-post-2020 global biodiversity framework)》的目標，也意識到最新知識引導決策的需求。
-近幾十年來，可用的生物多樣性資料大幅增加：全球生物多樣性資訊機構(Global Biodiversity 
-Information Facility, GBIF)中的生物時空分布資料，已超過 21 億筆，自 2007 年增加了
-12 倍<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>。生物多樣性資料能有如此成長，歸功於公民科學(或稱群眾科學)如雨後春筍般遍地開花。</p>
-<p>全球極其成功的公民科學案例之一是《愛自然》(<a href="https://www.inaturalist.org">www.inaturalist.org</a>; <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>)—涉及眾多生物類群的平台，
-由加州科學院(the California Academy of Sciences)和國家地理學會(the National Geographic
-Society)共同發起。使用者可透過《愛自然》貢獻任何生物的觀察（如圖1）或其活動痕跡，
-並附帶時間和空間相關的詮釋資料。接著，透過《愛自然》的使用者社群搭配快速優化的電腦影像判讀，
-將觀察紀錄鑑定至更細的分類階層。當觀察資料符合平台上的詮釋資料品質標準時，
-便能獲認證為「研究等級」，並且有兩個以上的鑑定建議中，
-超過三分之二鑑定在物種階層有一致的解答（意即2/2、2/3、3/4等；
-雖然鑑定到比科或科以下的階層也能獲認為研究等級，但即便鑑定沒有進展，
-也有機會獲認為研究等級）。雖然《愛自然》上的紀錄和使用者不斷增加，但是，
-讓這些資料在科學研究中充分發揮潛在價值的瓶頸是：缺乏具備專業能力、活躍於社群中的參與者
-（即有技術和能力可正確依照生物特徵來鑑定的人）—以下稱為「鑑定者」—積極參與社群。
-截至2022 年 1 月，《愛自然》社群共有 250 萬名使用者，其中 92% 的使用者僅上傳觀察紀錄，
-&lt;1% 的使用者僅從事鑑定工作，另外 7% 的使用者兩者都會處理。顯然需要招募更多的鑑定者。
-在此，為什麼要擔任《愛自然》的鑑定者，我們將觀點整合為七個理由（資訊欄1）。</p>
-<h2 id="資訊欄1擔任愛自然鑑定者的七個理由">資訊欄1：擔任《愛自然》鑑定者的七個理由</h2>
+<h1 id="los-beneficios-de-contribuir-a-la-plataforma-de-ciencia-ciudadana-inaturalist-como-identificadores">Los beneficios de contribuir a la plataforma de ciencia ciudadana iNaturalist como identificadores</h1>
+<p>This is a Spanish language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.</p>
+<p>Translation done by Florencia Grattarola (<a href="https://orcid.org/0000-0001-8282-5732)">https://orcid.org/0000-0001-8282-5732)</a>, and Lucía Rodríguez-Tricot (<a href="https://orcid.org/0000-0003-0949-9074)">https://orcid.org/0000-0003-0949-9074)</a>.</p>
+<h2 id="epígrafe">Epígrafe</h2>
+<p>A medida que aumenta el número de observaciones enviadas a la plataforma de ciencia ciudadana iNaturalist, es cada vez más importante que estas observaciones puedan identificarse hasta el nivel taxonómico más fino, maximizando su valor para la investigación de la biodiversidad. Aquí, exploramos los beneficios de aumentar la cantidad de identificadores en iNaturalist.</p>
+<h2 id="introducción">Introducción</h2>
+<p>En un mundo cada vez más modificado por el ser humano, los datos sobre la biodiversidad son esenciales para detectar y comprender sus cambios, tanto a escala local como global [1]. Monitorear la biodiversidad es el objetivo del borrador del marco mundial de la biodiversidad post-2020 del Convenio sobre la Diversidad Biológica, reconociendo que se necesita/hace falta conocimiento actualizado para guiar la toma de decisiones. En las últimas décadas, ha habido un aumento masivo en los datos de biodiversidad disponibles. Actualmente hay más de 2,100 millones de registros de presencia de especies en la Infraestructura Global de Datos de Biodiversidad (GBIF, por sus siglas en inglés), lo que supera en 12 veces los registros de 2007[2]. Este aumento de datos de biodiversidad se debe en parte a la creciente popularidad de la ciencia ciudadana o ciencia comunitaria.</p>
+<p>Una de las iniciativas más exitosas a nivel mundial es iNaturalist (<a href="https://www.inaturalist.org">www.inaturalist.org</a> ; [3]): una plataforma multi-taxa, coordinada por la Academia de Ciencias de California (Estados Unidos) y la National Geographic Society. iNaturalist permite a los participantes contribuir con observaciones de cualquier organismo (ej., Figura 1), o de sus rastros, junto con metadatos espacio-temporales asociados. Luego la misma comunidad de usuarias y usuarios de iNaturalist identifica y verifica las observaciones con alta resolución taxonómica, en conjunto con las sugerencias de herramientas de visión computarizada que mejoran a gran velocidad. Una observación se considera con &lsquo;Grado de Investigación&rsquo; cuando cumple con los criterios de calidad de los metadatos del sitio, cuenta con dos o más identificaciones sugeridas y más de dos tercios de estas coinciden a nivel de especie (es decir, 2/2, 2/3, 3/4, etc.). Los registros identificados a un nivel más fino que la familia también pueden considerarse con &lsquo;Grado de Investigación&rsquo; si no es posible alcanzar una mayor resolución taxonómica). Si bien la cantidad de datos y de contribuyentes de iNaturalist sigue aumentando, un cuello de botella que impide aprovechar completamente el potencial de estos datos para investigaciones científicas es la escasez de participantes con experiencia razonable. Nos referimos a personas con las habilidades y la capacidad para hacer identificaciones informadas, de aquí en adelante &lsquo;identificadores&rsquo;, que participen activamente en la comunidad. La comunidad de iNaturalist, a enero de 2022, consta de 2,5 millones de usuarios, el 92 % de los cuales contribuye con observaciones, &lt;1 % solamente realiza identificaciones y el restante 7 % lleva a cabo ambas actividades. Se vuelve evidente así la necesidad de un mayor reclutamiento de identificadores. En este trabajo, ofrecemos nuestra perspectiva colectiva sobre siete razones para contribuir a iNaturalist como identificadores (Recuadro 1).</p>
+<h2 id="recuadro-1--siete-razones-para-contribuir-a-inaturalist-como-identificadores">Recuadro 1 : Siete razones para contribuir a iNaturalist como identificadores.</h2>
 <blockquote>
-<p><strong>1. 您的貢獻能增進生物多樣性知識</strong></p>
-<p>當您鑑定觀察紀錄時，便立即提升其價值，也提升該紀錄在分類上的鑑定品質。</p>
-<p>• 先處理最迫切需要鑑定的觀察紀錄（如鑑定世界上缺乏觀察紀錄的地區、特定的受脅生物類群，或關注世界上特有性相當高的地區）。</p>
-<p><strong>2. 持續提升機會型公民科學紀錄的價值</strong></p>
-<p>• 由於突飛猛進的統計優勢和結構化抽樣的資料集合方法，每一筆獲鑑定的紀錄都能增進我們對物種分布和數量變化趨勢的瞭解。</p>
-<p>• 越來越多《愛自然》的照片以許多獨特和新穎的方式再次應用，通常是機會型的自然觀察資料。</p>
-<p><strong>3. 您可以提供受脅、資料不足或入侵種的資料</strong></p>
-<p>• 成立《愛自然》以來，使用者提供了許多重要的觀察紀錄，包括重新發現過去認為已滅絕或在當地滅絕的物種、在各國境內大範圍擴展新的觀察紀錄、以前未曾記錄的行為和寄主關係，甚至是新物種的發現和隨後的描述。</p>
-<p>•《愛自然》可用於監測某症狀往新地點的傳播狀況，以及能快速偵測和反應新的引入種。</p>
-<p><strong>4. 《愛自然》是現成、免費且易上手的資料蒐集裝置</strong></p>
-<p>• 連上網路的電腦或智慧型手機是使用《愛自然》的唯一必要條件，所有功能都完全免費，包括上傳、鑑定和下載資料。</p>
-<p>•《愛自然》的基礎功能中，其中一個要素是電腦影像判讀，自動提供鑑定建議。</p>
-<p>•《愛自然》具有「鑑定」專用的工具(<a href="https://www.inaturalist.org/observations/identify">www.inaturalist.org/observations/identify</a>)，可加快鑑定和審查鑑定的流程。</p>
-<p><strong>5.您可以參與世界各地的動態並即時互動</strong></p>
-<p>• 與《愛自然》互動會提示您與各式各樣的使用者即時合作討論，每位參與者都能獲益。</p>
-<p>• 鑑定討論是磨練和擴展自己技能的管道，包括讓經驗更豐富的鑑定者有機會確認其他鑑定者的鑑定建議，培訓下一代鑑定者。</p>
-<p><strong>6. 您可以與更多的受眾接觸</strong></p>
-<p>•《愛自然》透過強而有效的機制，更廣泛地影響社會，因為鑑
-定者能與世界各地成千上萬的人互動，強化人們與在地生態系統之間的連結。</p>
-<p>• 透過平台與參與者互動還能提升觀察紀錄的質與量，對生物多樣性科學更有幫助。</p>
-<p><strong>7.您可以樂在其中</strong></p>
-<p>• 瀏覽知名物種的照片，
-並幫助自然觀察新手鑑定資料，這可能是令人開心的事情，而且自己也能獲益</p>
-<p>• 官方網站的「《愛自然》每日觀察精選」(iNat Observation of the Day)項目（見此）展現了這些觀察成果</p>
-<p>在此可瀏覽本文之多種語言的版本：<a href="https://github.com/coreytcallaghan/non-English-translations">https://github.com/coreytcallaghan/non-English-translations</a></p>
+<p><strong>1. Tus aportes aumentan el conocimiento de la biodiversidad</strong>
+•	Cuando agregas una identificación a una observación, puedes aumentar inmediatamente el valor de ese registro al mejorar el nivel taxonómico alcanzado.</p>
+<p>•	Puedes priorizar tus esfuerzos de identificación para aumentar al máximo el conocimiento (ej., identificando especies en regiones del mundo con pocos datos, apuntando a grupos taxonómicos específicos que están amenazados o centrándose en regiones del mundo con alto endemismo).</p>
+<p><strong>2. El valor de los registros oportunistas está aumentando</strong>
+•	Como resultado de los rápidos avances estadísticos y los enfoques de integración de datos con muestreo estructurado, cada registro identificado puede mejorar nuestra comprensión sobre la distribución de las especies en el espacio y el tiempo, y las trayectorias de sus abundancias.</p>
+<p>•	Las fotografías de iNaturalist se utilizan cada vez más de formas únicas y novedosas, con objetivos secundarios a los iniciales que a menudo son de naturaleza oportunista.</p>
+<p><strong>3. Puedes contribuir con datos sobre especies amenazadas, con datos insuficientes o invasoras</strong>
+•	Desde sus inicios, los usuarios de iNaturalist han documentado muchos registros significativos. Estos incluyen el redescubrimiento de especies que se creían extintas o extirpadas localmente, la extensión del área de distribución de especies y nuevos registros nacionales, comportamientos y asociaciones de hospedadores no documentados anteriormente, e incluso el descubrimiento y la posterior descripción de nuevas especies.</p>
+<p>•	iNaturalist es útil para monitorear la propagación patognomónica a nuevos lugares y para dar respuestas rápidas a la detección de nuevas introducciones.</p>
+<p><strong>4. iNaturalist es una infraestructura de recopilación de datos lista para utilizar, gratuita y fácil de usar</strong>
+•	Una computadora o smartphone y una conexión a internet son los únicos requisitos para usar iNaturalist con todos los aspectos de la plataforma, incluyendo la carga, identificación y descarga de datos, completamente gratis.</p>
+<p>•	Un componente importante de la infraestructura de iNaturalist es la visión computarizada que proporciona sugerencias de identificación automatizadas.</p>
+<p>•	iNaturalist cuenta con una herramienta dedicada a &lsquo;Identificar&rsquo; (<a href="https://www.inaturalist.org/observations/identify">www.inaturalist.org/observations/identify</a>) que está optimizada para un flujo de trabajo ágil, para realizar y revisar identificaciones rápidamente.</p>
+<p><strong>5. Puedes participar en intercambios en tiempo real en todo el mundo</strong>
+•	Participar en iNaturalist te impulsa a discutir y colaborar con todo tipo de usuarios en tiempo real, con beneficios para todas las personas involucradas.</p>
+<p>•	Discutir identificaciones es una forma de perfeccionar y expandir tus propias habilidades, incluida la oportunidad de que expertas y expertos más experimentadas validen las identificaciones de pares con menos experiencia, capacitando a próximas generaciones de identificadores.</p>
+<p><strong>6. Puedes interactuar con una audiencia más amplia</strong>
+•	iNaturalist ofrece un mecanismo eficaz y potente para lograr un mayor impacto social, ya que las personas que realizan identificaciones pueden interactuar con miles de personas de todo el mundo, ayudando a conectar a las personas con los ecosistemas de los que forman parte.</p>
+<p>•	Involucrarse e intercambiar con otros participantes a través de la plataforma también puede mejorar la calidad y la cantidad de observaciones que son útiles para la ciencia de la biodiversidad.</p>
+<p><strong>7. Puedes divertirte</strong>
+•	Explorar fotografías, incluso de especies muy conocidas, y ayudar a los nuevos naturalistas a identificarlas, puede ser agradable y personalmente gratificante.</p>
+<p>•	Existe un proyecto oficial &lsquo;iNat Observation of the Day&rsquo; (“iNat, la observación del día”, <a href="https://www.inaturalist.org/projects/inat-observation-of-the-day">ver aquí</a>) que muestra observaciones como estas.</p>
 </blockquote>
-<h2 id="鑑定如何為生物多樣性研究加分">鑑定如何為生物多樣性研究加分？</h2>
-<p>擔任《愛自然》的鑑定者，您可以鑑定世界任何角落的觀察紀錄，而且可以考慮先使您的鑑定貢獻提到最高。舉例來說，相較於鑑定美國的常見鳥類，正確鑑定熱帶地區研究有限的無脊椎動物更有價值。過去的鑑定歷程勘誤可以在《愛自然》上透明地呈現與修改，觀察者及每位未來潛在的鑑定者都可以瞭解該生物的鑑定過程。即使無法鑑定至物種層級，專家對其科或屬的鑑定，再加上引導觀察者下次要留意和捕捉那些辨識特徵，通常對未來資料質與量的提升很有幫助。</p>
-<p>除了透過機會型公民科學紀錄量化生物多樣性的時空分布，來自《愛自然》
-的照片還獲得許多獨特和新穎的再次應用方式，通常是機會型性質的應用。
-例如，機會型公民科學已用於研究山羊冬季換毛的時間<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>。
-當觀察結果已經盡可能鑑定至最理想的分類階層，最能充分發揮這些照片的價值，增加專業鑑定者便有助於實現這一點。鑑定者可以透過以下方式，進一步提升觀察紀錄的價值，《愛自然》觀察註解(iNaturalist annotations)（例如，植物物候=開花）、觀察欄位(observation fields)（例如，寄主物種）以及在專案中添加觀察紀錄（例如，<a href="https://www.inaturalist.org/projects/bees-concentrating-nectar">專注於花蜜的蜜蜂(bees concentrating on nectar)</a>；<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>）。</p>
-<p>自成立以來，《愛自然》的使用者記錄了許多重要的觀察紀錄，包括再次發現已滅絕或局部滅絕的物種（例如，<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>）、大幅在各國境內擴展新紀錄（例如，<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>）、以及過去未曾記錄的行為和寄主關係（例如，<sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup>）。上傳到專案(project)「<a href="https://www.inaturalist.org/projects/australasian-fishes">澳大拉西亞魚類(Australasian
-Fishes)</a>」的觀察紀錄貢獻了 600 多筆在科學上尚未正式描述的物種紀錄、擴展紀錄分布範圍、以及未曾記錄的行為和新發現的種間交互作用（例如，<sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup>）。而專案「<a href="https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens">標本的首張活體影像(First Known Photographs of Living Specimens)</a>」項目有3,600 多筆觀察紀錄，代表這些生物類群的第一張，通常也是唯一一張的影像紀錄<sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup>。從生物安全(biosecurity)的角度來看，及時發現的新紀錄可能特別重要。公民科學可以落實及早發現入侵種<sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup>，而且確實有越來越多入侵種的首次紀錄是由《愛自然》發現。2020 年 7 月 31 日，使用者艾蘭·霍格(Alain Hogue; @alainhogue) 將一張有食痕的榆屬植物(<em>Ulmus</em> sp.)葉片的照片上傳到《愛自然》（<a href="https://www.inaturalist.org/observations/54944998">見此</a>）。在八小時內，北美潛葉昆蟲和植食性昆蟲食痕專家查理·艾斯曼(Charley Eiseman ; @ceiseman) 表示，這筆紀錄可能是一種東亞的入侵害蟲「榆樹三節葉蜂 (<em>Aproceros leucopoda</em>)」在北美的首次紀錄。這一筆紀錄使加拿大食品檢驗局(Canadian Food Inspection Agency)和加拿大森林管理局(Canadian Forest Service)到現場視察，並採集標本，也另外搜尋了加拿大和美國的榆樹紀錄，而發現更多外來種的紀錄<sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup>。</p>
-<p>諸如此類「特殊」紀錄的一致資訊是：在專家鑑定之前，都只是平台上數百萬筆紀錄之一。確實，可能有數千筆範圍變化或擴張、國內新紀錄、再次發現或新引進種已上傳到《愛自然》，但由於該生物類群或區域缺乏、甚至完全沒有鑑定者的而被忽略。</p>
-<h2 id="結論">結論</h2>
-<p>《愛自然》正在改變我們在多重時空尺度、以及整個社會對生物多樣性的認知。
-雖然我們專注於投入個人時間來鑑定《愛自然》的觀察紀錄，但我們也體認到，
-透過相關單位的支持，專家投入時間來鑑定觀察紀錄是一個額外的契機，
-也能彰顯類似的優點。同樣地，在全球各地廣泛使用《愛自然》
-（即連上網路或智慧型手機）也有其難處，未來需要完全克服這些障礙，
-才能將《愛自然》在生物多樣性研究中的價值以發揮至最大。即便如此，
-在短期內，我們希望您考慮將專業知識貢獻給《愛自然》—
-每天、每週或每個月投入30分鐘，將會對提升人類對生物多樣性的理解帶來莫大重大貢獻。
-最後，我們向所有潛在鑑定者發出公開邀請，
-歡迎他們在《愛自然》上與我們聯繫以獲取各式各樣的建議或指導（見表S1）。</p>
-<p>圖 1. 最多個人精選的觀察紀錄選輯。 a) 畢卡索盾椿 (<em>Sphaerocoris annulus</em>), 
-©艾倫‧蔓森(Alan Manson, @alandmanson)；b) 南非河馬 (<em>Hippopotamus amphibius</em> ssp. <em>capensis</em>) 載著沼澤側頸龜(
-<em>Pelomedusa subrufa</em>)、鋸齒側頸龜(<em>Pelusios sinuatus</em>)和錘頭鸛(<em>Scopus umbretta</em>)渡河，©瑪麗莎‧狄‧酷克 (Maritza de Kock,
-@maritzasouthafrica)；c) 帛琉鸚鵡螺 (<em>Nautilus belauensis</em>)，©凱‧斯凱爾思(Kai Squires, @squiresk)；d) 棘皮單棘魨(<em>Chaetodermis
-penicilligerus</em>)的幼體，©葛林‧惠森 (Glen Whisson, @glen_whisson)；e) 索克特拉沙漠玫瑰 (<em>Adenium obesum</em> ssp. <em>sokotranum</em>)，©莫藤‧羅斯 (Morten Ross, @morten)；f) 古巴短尾鴗 (<em>Todus multicolor</em>)，©維恩‧費德勒 (Wayne Fidler, @wayne_fidler).</p>
-<h2 id="參考文獻">參考文獻</h2>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Stephenson PJ, Stengel C. An inventory of biodiversity data sources for conservation monitoring. PLoS One. 2020;10: e0242923.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. Data integration enables global biodiversity synthesis. Proc Natl Acad Sci USA. 2021;118: e2018093118.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:3">
-<p>Seltzer C, Making Biodiversity Data Social, Shareable, and Scalable: Reflections on iNaturalist &amp; citizen science. Biodivers. Inf. Sci. Stand. 2019; e10197.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:4">
-<p>Nowak K, Berger J, Panikowski A, Reid DG, Jacob AL, Newman G, et al. Using community photography to investigate phenology: A case study of coat molt in the mountain goat (<em>Oreamnos americanus</em>) with missing data. Ecol Evol. 2020;10: 13488-13499.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:5">
-<p>Portman ZM, Ascher JS, Cariveau DP. Nectar concentrating behavior by bees (Hymenoptera: Anthophila). Apidologie. 2021;52: 1-26.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:6">
-<p>Jones CD, Glon MG, Cedar K, Paiero SM, Pratt PD, Preney TJ. First record of Paintedhand Mudbug (<em>Lacunicambarus polychromatus</em>) in Ontario and Canada and the significance of iNaturalist in making new discoveries. Can Field-Nat. 2019;133: 160-166.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:7">
-<p>De Roux JM, Noguera-Urbano EA, Ramírez-Chaves HE. The vulnerable Colombian weasel <em>Mustela felipei</em> (Carnivora): new record from Colombia and a review of its distribution in protected areas. Therya. 2019;10: 207-210.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:8">
-<p>Putman BJ, Williams R, Li E, Pauly GB. The power of community science to quantify ecological interactions in cities. Sci Rep. 2021;11: 1-8.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:9">
-<p>Booth DJ, Sear J. Coral expansion in Sydney and associated coral-reef fishes. Coral Reefs. 2018;37: 995.&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:10">
-<p>Mesaglio T, Soh A, Kurniawidjaja S, Sexton C. &lsquo;First Known Photographs of Living Specimens&rsquo;: the power of iNaturalist for recording rare tropical butterflies. J Insect Conserv. 2021;25: 905-911.&#160;<a href="#fnref:10" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:11">
-<p>Larson ER, Graham BM, Achury R, Coon JJ, Daniels MK, Gambrell DK, et al. From eDNA to citizen science: emerging tools for the early detection of invasive species. Front Ecol Environ. 2020;18: 194-202.&#160;<a href="#fnref:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:12">
-<p>Martel V, Morin O, Monckton SK, Eiseman CS, Béliveau C, Cusson M, et al. Elm zigzag sawfly, <em>Aproceros leucopoda</em> (Hymenoptera: Argidae), recorded for the first time in North America through community science. Can Entomol. 2021;154: 1-18.&#160;<a href="#fnref:12" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+<h2 id="cómo-pueden-contribuir-las-identificaciones-a-la-investigación-de-la-biodiversidad">Cómo pueden contribuir las identificaciones a la investigación de la biodiversidad</h2>
+<p>Como colaborador de la comunidad de iNaturalist, puedes identificar observaciones que se han realizado en cualquier parte del mundo, y puedes priorizar tus esfuerzos de identificación para así aumentar al máximo el conocimiento. Por ejemplo, podría decirse que las identificaciones correctas de invertebrados poco estudiados de los trópicos son más valiosas que las identificaciones de aves comunes en los Estados Unidos. Las identificaciones erróneas pasadas pueden ser modificadas de forma transparente en iNaturalist, y la persona que hizo la observación, y cualquier posible futuro identificador, pueden aprender sobre la identificación de ese organismo. Incluso si una observación no es identificable a nivel de especie, una identificación experta a nivel de familia o género, junto con anotaciones que indiquen qué se debe buscar y capturar la próxima vez, suele ser útil para mejorar la calidad de los datos en el futuro.</p>
+<p>Además de permitir la cuantificación de la biodiversidad en el espacio y/o el tiempo, los registros oportunistas de iNaturalist se están utilizando de muchas otras formas novedosas. Por ejemplo, se han utilizado registros oportunistas para estudiar la muda del pelaje invernal en cabras montesas [4]. La utilidad de una fotografía para estos propósitos es más valiosa cuando la observación ha sido identificada con la mejor resolución taxonómica posible, algo que puede promoverse al aumentar el número de identificadores expertos. Los identificadores pueden agregar más valor a las observaciones con anotaciones de iNaturalist (ej., Fenología de la planta=Floración), campos de observación (ej., Hospedera) y agregando observaciones a proyectos (ej., <a href="https://www.inaturalist.org/projects/bees-concentrating-nectar">abejas que concentran néctar</a> ; [5]).</p>
+<p>Desde sus inicios, las usuarias y usuarios de iNaturalist han documentado muchos registros significativos. Esto incluye el redescubrimiento de especies que se creían extintas o extirpadas localmente (ej., [6]), la extensión del área de distribución de especies y nuevos registros nacionales (ej., [7]), y comportamientos y asociaciones de hospedadores no documentados anteriormente (ej., [8]). Observaciones subidas al proyecto <a href="https://www.inaturalist.org/projects/australasian-fishes">Australasian Fishes</a> (Peces de Australasia) han contribuido con más de 600 nuevos hallazgos de especies no descritas, extensiones del área de distribución y comportamientos e interacciones de especies no documentados (ej., [9]), mientras que el proyecto P<a href="https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens">rimeras fotografías conocidas de especímenes vivos</a> cuenta con más de 3,600 registros que representan los primeros, y a menudo únicos, registros fotográficos de esos taxones [10]. Las nuevas observaciones identificadas de manera rápida pueden ser especialmente importantes desde el punto de vista de la bioseguridad. La ciencia ciudadana puede permitir la detección temprana de especies invasoras [11] y, de hecho, hay un número creciente de registros de especies invasoras que se detectaron por primera vez a través de iNaturalist. El 31 de julio de 2020, el usuario Alain Hogue (@alainhogue) subió a la plataforma una fotografía de una hoja de olmo (Ulmus sp.) con daños causados por alimentación (ver aquí). En menos de ocho horas, Charley Eiseman (@ceiseman), un experto norteamericano en huellas y señales de insectos minadores de hojas y otros herbívoros, sugirió que la observación podría representar el primer registro norteamericano de la mosca de sierra del olmo (Aproceros leucopoda). Esto representa el reporte de una especie de plaga invasora fuera del este de Asia, su área de distribución nativa. La observación provocó visitas in situ de la Agencia Canadiense de Inspección Alimentaria (CFIA, por sus siglas en inglés) y de los Servicios Forestales Canadienses (CFS, por sus siglas en inglés), donde se colectaron especímenes. Asimismo, búsquedas adicionales de observaciones de Ulmus en Canadá y Estados Unidos permitieron descubrir más registros.</p>
+<p>Un hilo conductor de muchos de estos registros “especiales” es que, hasta que son vistos e identificados por un experto, no son más que otro registro entre los millones subidos a la plataforma. De hecho, es probable que haya miles de modificaciones o extensiones de áreas de distribución, nuevos registros nacionales, re-descubrimientos o especies introducidas recientemente que se han subido a iNaturalist pero que han pasado desapercibidos debido a la escasez, o incluso ausencia, de identificadores para taxones o regiones específicas.</p>
+<h2 id="conclusiones">Conclusiones</h2>
+<p>iNaturalist está revolucionando nuestra comprensión de la biodiversidad a múltiples escalas espaciales y temporales, y en toda la sociedad. Si bien nos hemos enfocado en individuos que dedican su propio tiempo a identificar observaciones de iNaturalist, reconocemos que el apoyo institucional para que las personas expertas dediquen tiempo a identificar observaciones es una oportunidad adicional que produciría beneficios similares.  En el mismo sentido, existen barreras al uso generalizado de iNaturalist a nivel mundial (es decir, el acceso a internet o a teléfonos inteligentes) que necesitan ser superadas por completo para maximizar el valor de la plataforma para la investigación de la biodiversidad en el futuro. No obstante, a corto plazo, esperamos que consideres contribuir/aportar con tu experiencia a iNaturalist. Una inversión de tiempo de 30 minutos al día, a la semana o al mes puede proporcionar contribuciones sustanciales para mejorar colectivamente nuestra comprensión de la biodiversidad. Concluimos ofreciendo una invitación abierta a todas y todos los posibles identificadores para que se pongan en contacto con nosotros en iNaturalist para cualquier consejo u orientación (ver Tabla S1).</p>
+<h2 id="references">References</h2>
+<p>[1] Stephenson PJ, Stengel C. An inventory of biodiversity data sources for conservation monitoring. PLoS One. 2020;10: e0242923.</p>
+<p>[2] Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. Data integration enables global biodiversity synthesis. Proc Natl Acad Sci U S A. 2021;118: e2018093118.</p>
+<p>[3] Seltzer C, Making Biodiversity Data Social, Shareable, and Scalable: Reflections on iNaturalist &amp; citizen science. Biodivers. Inf. Sci. Stand. 2019; e10197.</p>
+<p>[4] Nowak K, Berger J, Panikowski A, Reid DG, Jacob AL, Newman G, et al. Using community photography to investigate phenology: A case study of coat molt in the mountain goat (Oreamnos americanus) with missing data. Ecol Evol. 2020;10: 13488-13499.</p>
+<p>[5] Portman ZM, Ascher JS, Cariveau DP. Nectar concentrating behavior by bees (Hymenoptera: Anthophila). Apidologie. 2021;52: 1-26.</p>
+<p>[6] Jones CD, Glon MG, Cedar K, Paiero SM, Pratt PD, Preney TJ. First record of Paintedhand Mudbug (Lacunicambarus polychromatus) in Ontario and Canada and the significance of iNaturalist in making new discoveries. Can Field-Nat. 2019;133: 160-166.</p>
+<p>[7] De Roux JM, Noguera-Urbano EA, Ramírez-Chaves HE. The vulnerable Colombian weasel Mustela felipei (Carnivora): new record from Colombia and a review of its distribution in protected areas. Therya. 2019;10: 207-210.</p>
+<p>[8] Putman BJ, Williams R, Li E, Pauly GB. The power of community science to quantify ecological interactions in cities. Sci Rep. 2021;11: 1-8.</p>
+<p>[9] Booth DJ, Sear J. Coral expansion in Sydney and associated coral-reef fishes. Coral Reefs. 2018;37: 995.</p>
+<p>[10] Mesaglio T, Soh A, Kurniawidjaja S, Sexton C. ‘First Known Photographs of Living Specimens’: the power of iNaturalist for recording rare tropical butterflies. J Insect Conserv. 2021;25: 905-911.</p>
+<p>[11] Larson ER, Graham BM, Achury R, Coon JJ, Daniels MK, Gambrell DK, et al. From eDNA to citizen science: emerging tools for the early detection of invasive species. Front Ecol Environ. 2020;18: 194-202.</p>
+<p>[12] Martel V, Morin O, Monckton SK, Eiseman CS, Béliveau C, Cusson M, et al. Elm zigzag sawfly, Aproceros leucopoda (Hymenoptera: Argidae), recorded for the first time in North America through community science. Can Entomol. 2021;154: 1-18.</p>
 
             <footer class="footline">
             </footer>
@@ -276,7 +202,7 @@ penicilligerus</em>)的幼體，©葛林‧惠森 (Glen Whisson, @glen_whisson)�
               }
             }
           </style>
-          <a id="logo" href="/non-English-translations/zh-tw/">
+          <a id="logo" href="/non-English-translations/es/">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.044 64.044">
               <path d="M46.103 136.34c-.642-.394-1.222-2.242-1.98-2.358-.76-.117-1.353.506-1.618 1.519-.266 1.012-.446 4.188.173 5.538.213.435.482.787 1.03.845.547.057.967-.504 1.45-1.027.482-.523.437-.9 1.142-.612.705.289 1.051.4 1.586 1.229.535.828 1.085 4.043.868 5.598-.241 1.458-.531 2.8-.59 4.088.26.075.517.148.772.217 2.68.724 5.373 1.037 7.873.02.001-.028.01-.105.008-.11-.048-.165-.18-.41-.36-.698-.18-.29-.414-.645-.586-1.114a3.212 3.212 0 0 1-.125-1.735c.056-.21.153-.342.249-.475 1.237-1.193 2.932-1.373 4.244-1.384.557-.004 1.389.016 2.198.255.809.239 1.706.724 2.068 1.843.187.578.114 1.17-.043 1.623-.153.438-.369.783-.545 1.091-.178.31-.329.6-.401.821-.007.02-.003.071-.005.094 2.256 1.008 4.716.91 7.189.398.55-.114 1.11-.247 1.673-.377.344-1.085.678-2.145.852-3.208.124-.752.158-2.311-.078-3.538-.118-.613-.306-1.15-.52-1.489-.221-.349-.413-.501-.747-.538-.243-.027-.51.013-.796.098-.67.223-1.33.606-1.966.76l-.008.002-.109.032c-.556.152-1.233.158-1.797-.36-.556-.51-.89-1.367-1.117-2.596-.283-1.528-.075-3.279.89-4.518l.071-.09h.07c.65-.71 1.485-.802 2.16-.599.706.213 1.333.629 1.772.84.736.354 1.185.319 1.475.171.291-.148.5-.439.668-.955.332-1.017.301-2.819.022-4.106-.148-.684-.13-1.292-.13-1.883-1.558-.463-3.067-.982-4.574-1.208-1.128-.169-2.263-.173-3.298.164-.13.046-.256.095-.38.15-.373.164-.633.342-.805.52-.077.098-.081.105-.087.21-.004.068.031.289.13.571.1.282.256.634.467 1.03.279.524.448 1.063.431 1.618a2.12 2.12 0 0 1-.499 1.309 1.757 1.757 0 0 1-.62.51h-.002c-.515.291-1.107.404-1.723.464-.86.083-1.787.026-2.598-.097-.806-.123-1.47-.28-1.948-.555-.444-.256-.79-.547-1.037-.925a2.273 2.273 0 0 1-.356-1.301c.029-.837.403-1.437.625-1.897.111-.23.191-.433.236-.583.045-.15.044-.25.046-.24-.005-.029-.127-.355-1.015-.741-1.138-.495-2.322-.673-3.533-.668h-.015a9.711 9.711 0 0 0-.521.016h-.002c-1.163.057-2.35.308-3.541.569.383 1.531.79 2.753.818 4.502-.096 1.297.158 2.114-1.03 2.935-.85.588-1.508.729-2.15.335" style="fill:#282828;fill-opacity:1;stroke:none;stroke-width:1.03763;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(-40.698 -95.175)"/>
               <path d="M61.472 101.34v.002c-.3-.003-.603.01-.894.04-.544.055-1.39.165-1.778.306-1.238.364.13 2.344.41 2.913.28.569.285 2.03.14 2.134-.144.103-.375.261-.934.345-.56.084.03-.037-1.589.086-1.62.122-5.506.29-8.265.248-.022.26-.036.521-.097.808-.309 1.442-.63 3.163-.494 4.074.071.473.168.65.414.8.23.14.737.235 1.62-.004.834-.227 1.3-.442 1.887-.456.595-.016 1.555.472 1.965.717.411.245-.03-.008.002 0s.128.05.176.102c.049.053-.276-.523.104.199.379.721.72 3.256.002 4.68-.46.913-1.01 1.49-1.64 1.711-.63.22-1.229.067-1.734-.135-.881-.353-1.584-.7-2.205-.647-1.199 1.94-1.186 4.17-.6 6.602.097.397.212.814.327 1.23 2.68-.556 5.542-1.016 8.337.132 1.064.437 1.73 1.015 1.902 1.857.169.831-.193 1.508-.438 1.986-.122.238-.23.46-.307.642-.07.164-.096.28-.104.324.069.429.309.723.686.945.385.227.89.355 1.35.423.723.104 1.567.152 2.287.086.693-.064 1.032-.338 1.241-.544a2.447 2.447 0 0 0 .303-.437.175.175 0 0 0 .013-.035c-.004-.066-.037-.246-.195-.527-.46-.816-.87-1.595-.817-2.51.028-.476.218-.938.529-1.288.304-.343.698-.586 1.186-.79 1.442-.606 2.96-.609 4.372-.409 1.525.216 2.963.679 4.378 1.083.226-2.09.784-3.9.592-5.77-.058-.565-.287-1.333-.598-1.827-.32-.508-.59-.717-1.036-.642-.648.11-1.472.935-2.707 1.078-.791.092-1.494-.267-1.95-.86-.45-.583-.678-1.335-.78-2.101-.202-1.525.031-3.229.89-4.27.615-.747 1.45-.887 2.15-.74.687.145 1.307.492 1.857.745v-.002c.546.252 1.033.388 1.281.344a.547.547 0 0 0 .353-.188c.113-.124.242-.35.384-.75.604-1.712.206-3.68-.303-5.654-.667.145-1.336.293-2.018.413-1.341.236-2.73.392-4.136.273-.656-.055-1.695-.085-2.58-.476-.442-.195-.903-.514-1.157-1.093-.259-.591-.205-1.313.08-2.014.223-.64 1.082-2.178.692-2.585-.391-.407-1.651-.56-2.554-.571z" style="fill:#282828;fill-opacity:1;stroke:none;stroke-width:.992837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(-40.698 -95.175)"/>
@@ -288,17 +214,17 @@ penicilligerus</em>)的幼體，©葛林‧惠森 (Glen Whisson, @glen_whisson)�
         </div>
         <div class="searchbox default-animation">
           <label for="search-by"><i class="fas fa-search"></i></label>
-          <input data-search-input id="search-by" type="search" placeholder="搜尋...">
+          <input data-search-input id="search-by" type="search" placeholder="Buscar...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
         <script>
-          var contentLangs=['zh'];
+          var contentLangs=['es'];
         </script>
         <script src="/non-English-translations/js/auto-complete.js?1663765385" defer></script>
         <script src="/non-English-translations/js/lunr.min.js?1663765385" defer></script>
         <script src="/non-English-translations/js/lunr.stemmer.support.min.js?1663765385" defer></script>
         <script src="/non-English-translations/js/lunr.multi.min.js?1663765385" defer></script>
-        <script src="/non-English-translations/js/lunr.zh.min.js?1663765385" defer></script>
+        <script src="/non-English-translations/js/lunr.es.min.js?1663765385" defer></script>
         <script src="/non-English-translations/js/search.js?1663765385" defer></script>
       </div>
       <div id="content-wrapper" class="highlightable">
@@ -315,9 +241,9 @@ penicilligerus</em>)的幼體，©葛林‧惠森 (Glen Whisson, @glen_whisson)�
                 <div class="select-style">
                   <select id="select-language" onchange="location = baseUri + this.value;">
                     <option id="en" value="/non-English-translations/en/">English</option>
-                    <option id="es" value="/non-English-translations/es/">Spanish</option>
+                    <option id="es" value="/non-English-translations/es/" selected>Spanish</option>
                     <option id="pt" value="/non-English-translations/pt/">Portuguese</option>
-                    <option id="zh-tw" value="/non-English-translations/zh-tw/" selected>Traditional Chinese (Taiwan)</option>
+                    <option id="zh-tw" value="/non-English-translations/zh-tw/">Traditional Chinese (Taiwan)</option>
                   </select>
                 </div>
                 <div class="select-clear"></div>
@@ -336,7 +262,7 @@ penicilligerus</em>)的幼體，©葛林‧惠森 (Glen Whisson, @glen_whisson)�
               </a>
               <script>window.variants && variants.markSelectedVariant();</script>
             </li>
-            <li class="footerVisitedLinks showVisitedLinks"><a class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> 清除歷史紀錄</a></li>
+            <li class="footerVisitedLinks showVisitedLinks"><a class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> Borrar Historial</a></li>
           </ul>
         </div>
         <div id="footer" class="footerFooter showFooter">
