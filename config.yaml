@@ -51,6 +51,11 @@ Languages:
     weight: 1
     languageName: Portuguese
     landingPageName: <i class='fas fa-home'></i> Home
+  it:
+    title: iNaturalist come identificatore
+    weight: 1
+    languageName: Italian
+    landingPageName: <i class='fas fa-home'></i> Home
   zh-tw:
     title: 成為《愛自然》的鑑定者
     weight: 1
