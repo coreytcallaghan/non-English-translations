@@ -1,5 +1,12 @@
 [
   {
+    "content": "\rThis site is a brief introduction to techniques for data organisation, graphics, and analyses, including:\nhow to organise your data during data entry\rhow to manipulate and manage your data so there is transparency and version control\rinstructions for running statistical analyses with sample code in R or other relevant software (first see Getting started with R)\rthe rationale for the technique in plain language (why is it used)\rhow to interpret the results and assumptions that you need to check\rvisualisation of your results and ways to effectively communicate the results in scientific reports or publications\rwhere to go for further help\rLast updated: Feb 2022\nContributors\rThanks to them for making Open Source Software a better place !\n",
+    "description": "",
+    "tags": null,
+    "title": "About This Site",
+    "uri": "/non-English-translations/en/about-this-site/"
+  },
+  {
     "content": "",
     "description": "",
     "tags": null,
