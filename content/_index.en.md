@@ -16,21 +16,25 @@ One of the most globally successful platforms is iNaturalist (www.inaturalist.or
 <blockquote>
 
 **1. Your contributions increase knowledge of biodiversity**
+
 •	When you add an identification to an observation, it can immediately increase the value of that record by advancing the taxonomic level to which that observation is identified
 
 •	Identification efforts can be prioritized for maximum knowledge increase (e.g., by identifying species in undersampled regions of the world, targeting specific taxonomic groups that are threatened, or focusing on regions of the world with high endemism)
 
 **2. The value of opportunistic records is increasing**
+
 •	As a result of rapidly increasing statistical advances and data integration approaches with structured sampling, each identified record can advance our understanding of species distributions and abundance trajectories
 
 •	Photographs from iNaturalist are increasingly used in many unique and novel secondary ways, often opportunistic in nature
 
 **3. You can contribute data on threatened, data-deficient, or invasive species**
+
 •	Since its inception, iNaturalist users have documented many significant records, including the rediscovery of species thought to be extinct or locally extirpated, considerable range extensions and new national records, previously undocumented behaviors and host associations, and even the discovery and subsequent descriptions of new species
 
 •	iNaturalist is useful in monitoring pathognomonic spread to new locations and for rapid responses in detecting novel introductions
 
 **4. iNaturalist is a ready-made, free, and easy-to-use data-collection infrastructure**
+
 •	A computer or smartphone and an internet connection are the only requirements for using iNaturalist, with all aspects of the platform, including uploading, identifying, and downloading data, entirely free
 
 •	An important component of the iNaturalist infrastructure is the computer vision providing automated identification suggestions
@@ -38,16 +42,19 @@ One of the most globally successful platforms is iNaturalist (www.inaturalist.or
 •	iNaturalist features a dedicated ‘Identify’ tool (www.inaturalist.org/observations/identify) that is streamlined for a rapid workflow to make, and review, identifications quickly
 
 **5. You can partake in dynamic, real-time interactions around the world**
+
 •	Engaging with iNaturalist prompts you to discuss and collaborate with all types of users in real time, with benefits for everyone involved
 
 •	Discussing identifications is a way of honing and expanding your own skills, including the opportunity for more experienced experts to validate the identifications of less-experienced experts, training the next generation of identifiers
 
 **6. You can engage with a broader audience**
+
 •	iNaturalist offers an efficient and powerful mechanism for broader societal impact, since identifiers can engage with thousands of individuals around the world, helping to connect people with the ecosystems of which they are a part
 
 •	Engaging with participants through the platform can also improve the quality and quantity of observations that are useful for biodiversity science
 
 **7. You can enjoy yourself**
+
 •	Browsing photographs of even well-known species, and helping new naturalists to identify them, can be enjoyable and personally rewarding
 
 •	There is an official ‘iNat Observation of the Day’ project (see [here](https://www.inaturalist.org/projects/inat-observation-of-the-day)) showcasing such observations

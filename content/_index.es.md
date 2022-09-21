@@ -22,21 +22,25 @@ Una de las iniciativas más exitosas a nivel mundial es iNaturalist (www.inatura
 <blockquote>
 
 **1. Tus aportes aumentan el conocimiento de la biodiversidad**
+
 •	Cuando agregas una identificación a una observación, puedes aumentar inmediatamente el valor de ese registro al mejorar el nivel taxonómico alcanzado.
 
 •	Puedes priorizar tus esfuerzos de identificación para aumentar al máximo el conocimiento (ej., identificando especies en regiones del mundo con pocos datos, apuntando a grupos taxonómicos específicos que están amenazados o centrándose en regiones del mundo con alto endemismo).
 
 **2. El valor de los registros oportunistas está aumentando**
+
 •	Como resultado de los rápidos avances estadísticos y los enfoques de integración de datos con muestreo estructurado, cada registro identificado puede mejorar nuestra comprensión sobre la distribución de las especies en el espacio y el tiempo, y las trayectorias de sus abundancias.
 
 •	Las fotografías de iNaturalist se utilizan cada vez más de formas únicas y novedosas, con objetivos secundarios a los iniciales que a menudo son de naturaleza oportunista.
 
 **3. Puedes contribuir con datos sobre especies amenazadas, con datos insuficientes o invasoras**
+
 •	Desde sus inicios, los usuarios de iNaturalist han documentado muchos registros significativos. Estos incluyen el redescubrimiento de especies que se creían extintas o extirpadas localmente, la extensión del área de distribución de especies y nuevos registros nacionales, comportamientos y asociaciones de hospedadores no documentados anteriormente, e incluso el descubrimiento y la posterior descripción de nuevas especies.
 
 •	iNaturalist es útil para monitorear la propagación patognomónica a nuevos lugares y para dar respuestas rápidas a la detección de nuevas introducciones.
 
 **4. iNaturalist es una infraestructura de recopilación de datos lista para utilizar, gratuita y fácil de usar**
+
 •	Una computadora o smartphone y una conexión a internet son los únicos requisitos para usar iNaturalist con todos los aspectos de la plataforma, incluyendo la carga, identificación y descarga de datos, completamente gratis.
 
 •	Un componente importante de la infraestructura de iNaturalist es la visión computarizada que proporciona sugerencias de identificación automatizadas.
@@ -44,16 +48,19 @@ Una de las iniciativas más exitosas a nivel mundial es iNaturalist (www.inatura
 •	iNaturalist cuenta con una herramienta dedicada a 'Identificar' (www.inaturalist.org/observations/identify) que está optimizada para un flujo de trabajo ágil, para realizar y revisar identificaciones rápidamente.
 
 **5. Puedes participar en intercambios en tiempo real en todo el mundo**
+
 •	Participar en iNaturalist te impulsa a discutir y colaborar con todo tipo de usuarios en tiempo real, con beneficios para todas las personas involucradas.
 
 •	Discutir identificaciones es una forma de perfeccionar y expandir tus propias habilidades, incluida la oportunidad de que expertas y expertos más experimentadas validen las identificaciones de pares con menos experiencia, capacitando a próximas generaciones de identificadores.
 
 **6. Puedes interactuar con una audiencia más amplia**
+
 •	iNaturalist ofrece un mecanismo eficaz y potente para lograr un mayor impacto social, ya que las personas que realizan identificaciones pueden interactuar con miles de personas de todo el mundo, ayudando a conectar a las personas con los ecosistemas de los que forman parte.
 
 •	Involucrarse e intercambiar con otros participantes a través de la plataforma también puede mejorar la calidad y la cantidad de observaciones que son útiles para la ciencia de la biodiversidad.
 
 **7. Puedes divertirte**
+
 •	Explorar fotografías, incluso de especies muy conocidas, y ayudar a los nuevos naturalistas a identificarlas, puede ser agradable y personalmente gratificante.
 
 •	Existe un proyecto oficial 'iNat Observation of the Day' (“iNat, la observación del día”, [ver aquí](https://www.inaturalist.org/projects/inat-observation-of-the-day)) que muestra observaciones como estas.

@@ -56,3 +56,8 @@ Languages:
     weight: 1
     languageName: Traditional Chinese (Taiwan)
     landingPageName: <i class='fas fa-home'></i> Home
+  ru:
+    title: iNaturalist как идентификатор
+    weight: 1
+    languageName: Russian
+    landingPageName: <i class='fas fa-home'></i> Home
