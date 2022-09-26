@@ -19,7 +19,7 @@ Uma das plataformas de maior sucesso global é o iNaturalist (www.inaturalist.or
 
 <blockquote>
 
-**1. O seu contributo aumenta  o conhecimento da biodiversidade **
+**1. O seu contributo aumenta  o conhecimento da biodiversidade**
 
 •	Ao adicionar uma identificação a uma observação, pode aumentar imediatamente o valor desse registo, avançando o nível taxonómico dessa  observação 
 • Os esforços de identificação podem ser prioritizados  para aumentar ao máximo os conhecimentos (por exemplo, através da identificação de espécies em regiões do mundo não amostradas, visando grupos taxonómicos específicos que estão ameaçados, ou concentrando-se em regiões do mundo com elevado endemismo)
@@ -40,6 +40,7 @@ Uma das plataformas de maior sucesso global é o iNaturalist (www.inaturalist.or
 **5. Pode participar em interacções  em tempo real em todo o mundo**
 •	O envolvimento com o iNaturalist leva-o a discutir e colaborar com todos os tipos de utilizadores em tempo real, com benefícios para todos os envolvidos
 •	Discutir identificações é uma forma de aperfeiçoar e expandir as suas próprias competências, incluindo a oportunidade de peritos mais experientes validarem as identificações de peritos menos experientes, formando a próxima geração de identificadores
+
 **6. Pode envolver-se com um público mais vasto**
 •	iNaturalist oferece um mecanismo eficiente e poderoso para um impacto social mais amplo, uma vez que os identificadores podem envolver milhares de indivíduos em todo o mundo, ajudando a conectar as pessoas com os ecossistemas dos quais fazem parte 
 •	O envolvimento com os participantes através da plataforma também pode melhorar a qualidade e quantidade de observações que são úteis para a ciência da biodiversidade
@@ -62,7 +63,7 @@ Um fio condutor consistente em muitos destes registos "especiais" é que, até s
 
 ## Conclusões
 
-O iNaturalist está a revolucionar a nossa compreensão da biodiversidade em múltiplas escalas espaciais e temporais, e em toda a sociedade. Embora nos concentremos em indivíduos que dedicam o seu próprio tempo a identificar observações iNaturalist, reconhecemos que o apoio institucional para os peritos dedicarem tempo a identificar observações é uma oportunidade adicional que traria benefícios semelhantes. Na mesma linha, existem barreiras à utilização generalizada do iNaturalist a nível mundial (ou seja, acesso à Internet ou smartphones) que terão de ser totalmente ultrapassadas para maximizar o valor do iNaturalist para a investigação da biodiversidade no futuro. No entanto, a curto prazo, esperamos que considere contribuir com os seus conhecimentos para o iNaturalist - um investimento de tempo de 30 minutos por dia, semana, ou mês pode fornecer contributos substanciais para melhorar colectivamente a nossa compreensão da biodiversidade. Concluímos oferecendo um convite aberto a todos os potenciais identificadores para nos contactarem no iNaturalist para qualquer conselho ou orientação (ver Quadro S1).
+O iNaturalist está a revolucionar a nossa compreensão da biodiversidade em múltiplas escalas espaciais e temporais, e em toda a sociedade. Embora nos concentremos em indivíduos que dedicam o seu próprio tempo a identificar observações iNaturalist, reconhecemos que o apoio institucional para os peritos dedicarem tempo a identificar observações é uma oportunidade adicional que traria benefícios semelhantes. Na mesma linha, existem barreiras à utilização generalizada do iNaturalist a nível mundial (ou seja, acesso à Internet ou smartphones) que terão de ser totalmente ultrapassadas para maximizar o valor do iNaturalist para a investigação da biodiversidade no futuro. No entanto, a curto prazo, esperamos que considere contribuir com os seus conhecimentos para o iNaturalist - um investimento de tempo de 30 minutos por dia, semana, ou mês pode fornecer contributos substanciais para melhorar colectivamente a nossa compreensão da biodiversidade. Concluímos oferecendo um convite aberto a todos os potenciais identificadores para nos contactarem no iNaturalist para qualquer conselho ou orientação (Caixa 1).
 
 ## Referências
 
