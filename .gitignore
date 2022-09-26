@@ -4,3 +4,7 @@
 
 # Local Netlify folder
 .netlify
+
+public/**
+public/*
+public

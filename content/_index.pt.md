@@ -1,15 +1,15 @@
 ---
 title: 
 ---
-# iNaturalista como um identificador
-
-### Os benefícios de contribuir como identificador/a para a plataforma de ciência cidadã iNaturalista 
+# Os benefícios de contribuir como identificador/a para a plataforma de ciência cidadã iNaturalista 
 
 Tradução feita por [Joana Vieira](https://www.linkedin.com/in/joanauve/).
 
+## Epígrafo
+
 À medida que o número de observações submetidas à plataforma de ciência cidadã  iNaturalist continua a aumentar, é cada vez mais importante que estas observações possam ser identificadas ao mais fino nível taxonómico, maximizando o seu valor para a investigação da biodiversidade. Aqui, exploramos os benefícios de aumentar o número de identificadores no iNaturalist. 
 
-## Introduction
+## Introdução
 
 Num mundo cada vez mais modificado pelo ser human , os dados sobre biodiversidade são essenciais para a detecção e compreensão das alterações locais e globais da biodiversidade [1]. A monitorização da biodiversidade é visada no projecto de quadro global de biodiversidade pós-2020 da Convenção sobre Diversidade Biológica, reconhecendo que são necessários conhecimentos atualizados para informar  a tomada de decisões. Nas últimas décadas, tem havido um aumento maciço dos dados disponíveis sobre biodiversidade - existem atualmente >2,1 mil milhões de registos de ocorrências de espécies no Global Biodiversity Information Facility, representando um aumento de 12 vezes desde 2007 [2]. Este aumento nos dados sobre biodiversidade deve-se em parte à crescente popularidade da ciência cidadã, ou ciência de base comunitária.
 
@@ -19,16 +19,16 @@ Uma das plataformas de maior sucesso global é o iNaturalist (www.inaturalist.or
 
 <blockquote>
 
-	**1. O seu contributo aumenta  o conhecimento da biodiversidade **
+**1. O seu contributo aumenta  o conhecimento da biodiversidade **
 
-	•	Ao adicionar uma identificação a uma observação, pode aumentar imediatamente o valor desse registo, avançando o nível taxonómico dessa  observação 
-	• Os esforços de identificação podem ser prioritizados  para aumentar ao máximo os conhecimentos (por exemplo, através da identificação de espécies em regiões do mundo não amostradas, visando grupos taxonómicos específicos que estão ameaçados, ou concentrando-se em regiões do mundo com elevado endemismo)
+•	Ao adicionar uma identificação a uma observação, pode aumentar imediatamente o valor desse registo, avançando o nível taxonómico dessa  observação 
+• Os esforços de identificação podem ser prioritizados  para aumentar ao máximo os conhecimentos (por exemplo, através da identificação de espécies em regiões do mundo não amostradas, visando grupos taxonómicos específicos que estão ameaçados, ou concentrando-se em regiões do mundo com elevado endemismo)
 
-	**2. O valor dos registos oportunistas está a aumentar**
+**2. O valor dos registos oportunistas está a aumentar**
 •	Como resultado do rápido aumento dos avanços estatísticos e abordagens de integração de dados com amostragem estruturada, cada registo identificado pode fazer avançar a nossa compreensão da distribuição das espécies e das trajectórias de abundância
 •	As fotografias do iNaturalist são cada vez mais utilizadas de muitas formas secundárias únicas e inovadoras, frequentemente de natureza oportunista
 
-**3. Pode contribuir com dados sobre espécies ameaçadas, espécies com poucos de dados , ou espécies invasoras **
+**3. Pode contribuir com dados sobre espécies ameaçadas, espécies com poucos de dados , ou espécies invasoras**
 •	Desde o seu início, os utilizadores iNaturalist documentaram muitos registos significativos, incluindo a redescoberta de espécies que se pensava estarem extintas ou extirpadas localmente, extensões de alcance considerável e novos registos nacionais, comportamentos anteriormente não documentados e associações de acolhimento, e mesmo a descoberta e subsequentes descrição de novas espécies
 •	iNaturalist é útil na monitorização da propagação patognomónica para novos locais e para respostas rápidas na detecção de novas entradas 
 
@@ -40,7 +40,7 @@ Uma das plataformas de maior sucesso global é o iNaturalist (www.inaturalist.or
 **5. Pode participar em interacções  em tempo real em todo o mundo**
 •	O envolvimento com o iNaturalist leva-o a discutir e colaborar com todos os tipos de utilizadores em tempo real, com benefícios para todos os envolvidos
 •	Discutir identificações é uma forma de aperfeiçoar e expandir as suas próprias competências, incluindo a oportunidade de peritos mais experientes validarem as identificações de peritos menos experientes, formando a próxima geração de identificadores
-** 6. Pode envolver-se com um público mais vasto**
+**6. Pode envolver-se com um público mais vasto**
 •	iNaturalist oferece um mecanismo eficiente e poderoso para um impacto social mais amplo, uma vez que os identificadores podem envolver milhares de indivíduos em todo o mundo, ajudando a conectar as pessoas com os ecossistemas dos quais fazem parte 
 •	O envolvimento com os participantes através da plataforma também pode melhorar a qualidade e quantidade de observações que são úteis para a ciência da biodiversidade
 
