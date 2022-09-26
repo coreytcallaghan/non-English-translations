@@ -17,7 +17,7 @@ Currently, the piece has been translated into the following languages:
 # Contribute
 If you see a language not on this list but would like to contribute, please email Corey Callaghan (callaghan.corey.t@gmail.com), or create a pull request.
 
-**Last updated:** `r format(Sys.time(), "%b %Y")`
+**Last updated:** Sept 2022
 
 
 
