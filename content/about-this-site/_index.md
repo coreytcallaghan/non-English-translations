@@ -13,11 +13,9 @@ Currently, the piece has been translated into the following languages:
 - [Traditional Chinese](https://coreytcallaghan.github.io/non-English-translations/zh-tw/)
 - [Swahili](https://coreytcallaghan.github.io/non-English-translations/sw/)
 - [Italian](https://coreytcallaghan.github.io/non-English-translations/it/)
+- [French](https://coreytcallaghan.github.io/non-English-translations/fr)
 
 # Contribute
 If you see a language not on this list but would like to contribute, please email Corey Callaghan (callaghan.corey.t@gmail.com), or create a pull request.
 
 **Last updated:** Sept 2022
-
-
-

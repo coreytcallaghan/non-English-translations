@@ -71,3 +71,8 @@ Languages:
     weight: 1
     languageName: Russian
     landingPageName: <i class='fas fa-home'></i> Home
+  fr:
+    title: iNaturalist comme identifiant
+    weight: 1
+    languageName: French
+    landingPageName: <i class='fas fa-home'></i> Home
