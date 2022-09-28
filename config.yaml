@@ -66,6 +66,11 @@ Languages:
     weight: 1
     languageName: Swahili
     landingPageName: <i class='fas fa-home'></i> Home
+  pl:
+    title: iNaturalista jako identyfikator
+    weight: 1
+    languageName: Polish
+    landingPageName: <i class='fas fa-home'></i> Home
   ru:
     title: iNaturalist как идентификатор
     weight: 1

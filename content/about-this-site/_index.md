@@ -14,6 +14,7 @@ Currently, the piece has been translated into the following languages:
 - [Swahili](https://coreytcallaghan.github.io/non-English-translations/sw/)
 - [Italian](https://coreytcallaghan.github.io/non-English-translations/it/)
 - [French](https://coreytcallaghan.github.io/non-English-translations/fr)
+- [Polish](https://coreytcallaghan.github.io/non-English-translations/pl)
 
 # Contribute
 If you see a language not on this list but would like to contribute, please email Corey Callaghan (callaghan.corey.t@gmail.com), or create a pull request.
