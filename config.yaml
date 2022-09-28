@@ -71,6 +71,11 @@ Languages:
     weight: 1
     languageName: Polish
     landingPageName: <i class='fas fa-home'></i> Home
+  ne:
+    title: iNaturalist पहिचानकर्ताको रूपमा
+    weight: 1
+    languageName: Nepali
+    landingPageName: <i class='fas fa-home'></i> Home
   ru:
     title: iNaturalist как идентификатор
     weight: 1
