@@ -85,7 +85,7 @@ iNaturalist は複数の空間的、時間的スケールで、そして社会�
 
 [3] Seltzer C, Making Biodiversity Data Social, Shareable, and Scalable: Reflections on iNaturalist & citizen science. Biodivers. Inf. Sci. Stand. 2019; e10197.
 
-[^4] Nowak K, Berger J, Panikowski A, Reid DG, Jacob AL, Newman G, et al. Using community photography to investigate phenology: A case study of coat molt in the mountain goat (*Oreamnos americanus*) with missing data. Ecol Evol. 2020;10: 13488-13499.
+[4] Nowak K, Berger J, Panikowski A, Reid DG, Jacob AL, Newman G, et al. Using community photography to investigate phenology: A case study of coat molt in the mountain goat (*Oreamnos americanus*) with missing data. Ecol Evol. 2020;10: 13488-13499.
 
 [5] Portman ZM, Ascher JS, Cariveau DP. Nectar concentrating behavior by bees (Hymenoptera: Anthophila). Apidologie. 2021;52: 1-26.
 
