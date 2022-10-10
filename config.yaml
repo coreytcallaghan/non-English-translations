@@ -86,3 +86,8 @@ Languages:
     weight: 1
     languageName: French
     landingPageName: <i class='fas fa-home'></i> Home
+  jp:
+    title: iNaturalist（アイナチュラリスト）に識別者として
+    weight: 1
+    languageName: Japanese
+    landingPageName: <i class='fas fa-home'></i> Home
