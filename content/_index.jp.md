@@ -79,27 +79,26 @@ iNaturalist のユーザーはその開始以来、絶滅したか局所的に�
 iNaturalist は複数の空間的、時間的スケールで、そして社会全体で、生物多様性の理解に革命を起こしています。我々は iNaturalist の観察を特定するために自分の時間を捧げる個人に焦点を当てますが、 専門家が観察を特定するために時間を捧げるための制度的サポートは、同様の利益をもたらす追加の機会であることを認識しています。同じように、iNaturalistのグローバルな普及には障壁（インターネットやスマートフォンへのアクセスなど）があり、将来的に生物多様性研究のためにiNaturalistの価値を最大化するためには、完全に克服する必要があると思われます。1日、1週間、1ヶ月に30分程度の時間投資で、生物多様性の理解を深めることに大きく貢献することができます。最後に、これから識別を行おうとしている全ての方に、iNaturalistでアドバイスや指導を受けることをお勧めします（表S1参照）。
 
 ## 参考文献
+[1] Stephenson PJ, Stengel C. An inventory of biodiversity data sources for conservation monitoring. PLoS One. 2020;10: e0242923.
 
-[^1]: Stephenson PJ, Stengel C. An inventory of biodiversity data sources for conservation monitoring. PLoS One. 2020;10: e0242923.
+[2] Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. Data integration enables global biodiversity synthesis. Proc Natl Acad Sci USA. 2021;118: e2018093118.
 
-[^2]: Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. Data integration enables global biodiversity synthesis. Proc Natl Acad Sci USA. 2021;118: e2018093118.
+[3] Seltzer C, Making Biodiversity Data Social, Shareable, and Scalable: Reflections on iNaturalist & citizen science. Biodivers. Inf. Sci. Stand. 2019; e10197.
 
-[^3]: Seltzer C, Making Biodiversity Data Social, Shareable, and Scalable: Reflections on iNaturalist & citizen science. Biodivers. Inf. Sci. Stand. 2019; e10197.
+[^4] Nowak K, Berger J, Panikowski A, Reid DG, Jacob AL, Newman G, et al. Using community photography to investigate phenology: A case study of coat molt in the mountain goat (*Oreamnos americanus*) with missing data. Ecol Evol. 2020;10: 13488-13499.
 
-[^4]: Nowak K, Berger J, Panikowski A, Reid DG, Jacob AL, Newman G, et al. Using community photography to investigate phenology: A case study of coat molt in the mountain goat (*Oreamnos americanus*) with missing data. Ecol Evol. 2020;10: 13488-13499.
+[5] Portman ZM, Ascher JS, Cariveau DP. Nectar concentrating behavior by bees (Hymenoptera: Anthophila). Apidologie. 2021;52: 1-26.
 
-[^5]: Portman ZM, Ascher JS, Cariveau DP. Nectar concentrating behavior by bees (Hymenoptera: Anthophila). Apidologie. 2021;52: 1-26.
+[6] Jones CD, Glon MG, Cedar K, Paiero SM, Pratt PD, Preney TJ. First record of Paintedhand Mudbug (*Lacunicambarus polychromatus*) in Ontario and Canada and the significance of iNaturalist in making new discoveries. Can Field-Nat. 2019;133: 160-166.
 
-[^6]: Jones CD, Glon MG, Cedar K, Paiero SM, Pratt PD, Preney TJ. First record of Paintedhand Mudbug (*Lacunicambarus polychromatus*) in Ontario and Canada and the significance of iNaturalist in making new discoveries. Can Field-Nat. 2019;133: 160-166.
+[7] De Roux JM, Noguera-Urbano EA, Ramírez-Chaves HE. The vulnerable Colombian weasel *Mustela felipei* (Carnivora): new record from Colombia and a review of its distribution in protected areas. Therya. 2019;10: 207-210.
 
-[^7]: De Roux JM, Noguera-Urbano EA, Ramírez-Chaves HE. The vulnerable Colombian weasel *Mustela felipei* (Carnivora): new record from Colombia and a review of its distribution in protected areas. Therya. 2019;10: 207-210.
+[8] Putman BJ, Williams R, Li E, Pauly GB. The power of community science to quantify ecological interactions in cities. Sci Rep. 2021;11: 1-8.
 
-[^8]: Putman BJ, Williams R, Li E, Pauly GB. The power of community science to quantify ecological interactions in cities. Sci Rep. 2021;11: 1-8.
+[9] Booth DJ, Sear J. Coral expansion in Sydney and associated coral-reef fishes. Coral Reefs. 2018;37: 995.
 
-[^9]: Booth DJ, Sear J. Coral expansion in Sydney and associated coral-reef fishes. Coral Reefs. 2018;37: 995.
+[10] Mesaglio T, Soh A, Kurniawidjaja S, Sexton C. 'First Known Photographs of Living Specimens': the power of iNaturalist for recording rare tropical butterflies. J Insect Conserv. 2021;25: 905-911.
 
-[^10]: Mesaglio T, Soh A, Kurniawidjaja S, Sexton C. 'First Known Photographs of Living Specimens': the power of iNaturalist for recording rare tropical butterflies. J Insect Conserv. 2021;25: 905-911.
+[11] Larson ER, Graham BM, Achury R, Coon JJ, Daniels MK, Gambrell DK, et al. From eDNA to citizen science: emerging tools for the early detection of invasive species. Front Ecol Environ. 2020;18: 194-202.
 
-[^11]: Larson ER, Graham BM, Achury R, Coon JJ, Daniels MK, Gambrell DK, et al. From eDNA to citizen science: emerging tools for the early detection of invasive species. Front Ecol Environ. 2020;18: 194-202.
-
-[^12]: Martel V, Morin O, Monckton SK, Eiseman CS, Béliveau C, Cusson M, et al. Elm zigzag sawfly, *Aproceros leucopoda* (Hymenoptera: Argidae), recorded for the first time in North America through community science. Can Entomol. 2021;154: 1-18.
+[12] Martel V, Morin O, Monckton SK, Eiseman CS, Béliveau C, Cusson M, et al. Elm zigzag sawfly, *Aproceros leucopoda* (Hymenoptera: Argidae), recorded for the first time in North America through community science. Can Entomol. 2021;154: 1-18.
