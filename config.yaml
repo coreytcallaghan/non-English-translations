@@ -96,3 +96,8 @@ Languages:
     weight: 1
     languageName: Japanese
     landingPageName: <i class='fas fa-home'></i> Home
+  si:
+    title: iNaturalist හඳුනාගැනීමක් ලෙස
+    weight: 1
+    languageName: Sinhalese
+    landingPageName: <i class='fas fa-home'></i> Home
