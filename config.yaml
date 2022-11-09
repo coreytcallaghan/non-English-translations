@@ -6,7 +6,7 @@ theme: hugo-theme-relearn
 metaDataFormat: yaml
 defaultContentLanguageInSubdir: yes
 params:
-  author:  Will Cornwell
+  author:  Will Cornwell, Corey Callaghan
   customMermaidURL: NA
   description: Contributing to iNaturalist as an identifier
   disableBreadcrumb: no
@@ -98,6 +98,11 @@ Languages:
     landingPageName: <i class='fas fa-home'></i> Home
   si:
     title: iNaturalist හඳුනාගැනීමක් ලෙස
+    weight: 1
+    languageName: Sinhalese
+    landingPageName: <i class='fas fa-home'></i> Home
+  si:
+    title: iNaturalist ca identificator
     weight: 1
     languageName: Sinhalese
     landingPageName: <i class='fas fa-home'></i> Home
