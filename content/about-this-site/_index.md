@@ -3,7 +3,7 @@ title: "About This Site"
 weight: 1
 ---
 
-This site was put together to host some non-English translations of a Community Pages published in PLoS Biology: XXXXXXX.
+This site was put together to host some non-English translations of a Community Pages published in PLoS Biology: https://doi.org/10.1371/journal.pbio.3001843.
 
 Currently, the piece has been translated into the following languages:
 
