@@ -76,7 +76,7 @@ Un element constant în multe dintre aceste observații "speciale" este faptul c
 ## Concluzii
 iNaturalist revoluționează înțelegerea noastră in ceea ce privește biodiversitatea la mai multe scări spațiale și temporale și în întreaga societate. Deși ne concentrăm asupra persoanelor care își dedică propriul timp identificării observațiilor iNaturalist, recunoaștem că sprijinul instituțional pentru ca experții să își dedice timpul identificării observațiilor reprezintă o oportunitate suplimentară care ar aduce beneficii similare. În aceeași ordine de idei, există bariere în calea utilizării pe scară largă a iNaturalist la nivel global (de exemplu, accesul la internet sau la telefoane inteligente) care vor trebui să fie depășite pe deplin pentru a maximiza valoarea iNaturalist pentru cercetarea biodiversității în viitor. Cu toate acestea, pe termen scurt, sperăm că veți lua în considerare posibilitatea de a contribui cu expertiza dumneavoastră la iNaturalist - o investiție de timp de 30 de minute pe zi, săptămână sau lună poate aduce contribuții substanțiale la îmbunătățirea colectivă a înțelegerii noastre asupra biodiversității. Încheiem prin a oferi o invitație deschisă tuturor potențialilor identificatori să ne contacteze pe iNaturalist pentru orice sfat sau îndrumare (a se vedea tabelul S1).
 
-## References
+## Bibliografie
 [1] Stephenson PJ, Stengel C. An inventory of biodiversity data sources for conservation monitoring. PLoS One. 2020;10: e0242923.
 
 [2] Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. Data integration enables global biodiversity synthesis. Proc Natl Acad Sci U S A. 2021;118: e2018093118.
