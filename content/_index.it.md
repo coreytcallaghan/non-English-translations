@@ -3,7 +3,7 @@ title:
 ---
 # I vantaggi del contribuire come identificatore alla piattaforma di citizen science iNaturalist
 
-This is an Italian language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is an Italian language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Aldo Compagnoni.
 

@@ -3,7 +3,7 @@ title:
 ---
 # नागरिक विज्ञान प्लेटफर्म iNaturalist लाई पहिचानकर्ताको रूपमा योगदान गर्ने फाइदाहरू
 
-This is a Nepali language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Nepali language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Shiva Khanal and Bishnu Dhakal.
 

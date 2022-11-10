@@ -3,7 +3,7 @@ title:
 ---
 # Los beneficios de contribuir a la plataforma de ciencia ciudadana iNaturalist como identificadores
 
-This is a Spanish language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Spanish language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Florencia Grattarola (https://orcid.org/0000-0001-8282-5732), and Lucía Rodríguez-Tricot (https://orcid.org/0000-0003-0949-9074).
 

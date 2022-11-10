@@ -101,8 +101,8 @@ Languages:
     weight: 1
     languageName: Sinhalese
     landingPageName: <i class='fas fa-home'></i> Home
-  si:
+  ro:
     title: iNaturalist ca identificator
     weight: 1
-    languageName: Sinhalese
+    languageName: Romanian
     landingPageName: <i class='fas fa-home'></i> Home

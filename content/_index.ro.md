@@ -3,7 +3,7 @@ title:
 ---
 # Beneficiile contribuției la platforma de știință participativă cu aportul publicului iNaturalist ca identificator
 
-This is a Romanian language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Romanian language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Silviu Petrovan.
 

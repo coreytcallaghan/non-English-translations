@@ -3,7 +3,7 @@ title:
 ---
 # Waarom uw identificaties op het burgerwetenschapplatform iNaturalist ertoe doen
 
-This is a Dutch language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Dutch language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Roel van Klink
 

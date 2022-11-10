@@ -1,7 +1,7 @@
 # 成為公民科學《愛自然》鑑定者的七個理由
 
-This is a Traditional Chinese (Taiwan) translation of the community pages 
-manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Traditional Chinese (Taiwan) translation of the community pages
+manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843X.
 
 Translation done by Da-Li Lin (林大利) & Cheng-Tao Lin (林政道)
 
@@ -20,7 +20,7 @@ Translation done by Da-Li Lin (林大利) & Cheng-Tao Lin (林政道)
 在人類日益改變的世界中，生物多樣性資料是偵測及瞭解地方至全球生物多樣性變化趨勢的必要資訊
 [^1]。生物多樣性監測是《生物多樣性公約》之《2020年後全球生物多樣性綱要草案(the draft
 post-2020 global biodiversity framework)》的目標，也意識到最新知識引導決策的需求。
-近幾十年來，可用的生物多樣性資料大幅增加：全球生物多樣性資訊機構(Global Biodiversity 
+近幾十年來，可用的生物多樣性資料大幅增加：全球生物多樣性資訊機構(Global Biodiversity
 Information Facility, GBIF)中的生物時空分布資料，已超過 21 億筆，自 2007 年增加了
 12 倍[^2]。生物多樣性資料能有如此成長，歸功於公民科學(或稱群眾科學)如雨後春筍般遍地開花。
 
@@ -119,7 +119,7 @@ Fishes)](https://www.inaturalist.org/projects/australasian-fishes)」的觀察�
 最後，我們向所有潛在鑑定者發出公開邀請，
 歡迎他們在《愛自然》上與我們聯繫以獲取各式各樣的建議或指導（見表S1）。
 
-圖 1. 最多個人精選的觀察紀錄選輯。 a) 畢卡索盾椿 (*Sphaerocoris annulus*), 
+圖 1. 最多個人精選的觀察紀錄選輯。 a) 畢卡索盾椿 (*Sphaerocoris annulus*),
 ©艾倫‧蔓森(Alan Manson, \@alandmanson)；b) 南非河馬 (*Hippopotamus amphibius* ssp. *capensis*) 載著沼澤側頸龜(
 *Pelomedusa subrufa*)、鋸齒側頸龜(*Pelusios sinuatus*)和錘頭鸛(*Scopus umbretta*)渡河，©瑪麗莎‧狄‧酷克 (Maritza de Kock,
 \@maritzasouthafrica)；c) 帛琉鸚鵡螺 (*Nautilus belauensis*)，©凱‧斯凱爾思(Kai Squires, \@squiresk)；d) 棘皮單棘魨(*Chaetodermis

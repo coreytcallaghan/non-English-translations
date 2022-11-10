@@ -3,7 +3,7 @@ title:
 ---
 # iNaturalist ප්‍රජා වැඩසටහන සඳහා හැදුනුම් විශේෂඥයෙකු ලෙස දායකත්වය සැපයීමේ ප්‍රතිලාභ   
 
-This is a Sinhalese language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Sinhalese language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Sandya Nishanthi Gunasekara.
 

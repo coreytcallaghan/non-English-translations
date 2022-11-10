@@ -3,7 +3,7 @@ title:
 ---
 # Manufaa ya kuchangia jukwaa la sayansi ya raia iNaturalist kama kitambulisho
 
-This is a Swahili language translation of the community pages manuscript published in PLOS Biology, available here: XXXXXXXXXXX.
+This is a Swahili language translation of the community pages manuscript published in PLOS Biology, available here: https://doi.org/10.1371/journal.pbio.3001843.
 
 Translation done by Dr. Brian Waswala.
 
